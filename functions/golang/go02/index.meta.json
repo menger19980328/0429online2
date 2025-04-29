@@ -1,0 +1,16 @@
+{
+  "apiID": "package_48e0d5__c__function_aadib5chfisgu",
+  "apiName": "go02",
+  "label": {
+    "zh_CN": "go02",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
