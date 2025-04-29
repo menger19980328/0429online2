@@ -1,0 +1,16 @@
+{
+  "apiID": "package_48e0d5__c__function_aadicca6swghw",
+  "apiName": "node1401cli",
+  "label": {
+    "zh_CN": "node 1401 cli",
+    "en_US": "node 1401 cli"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
